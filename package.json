@@ -1,0 +1,22 @@
+{
+  "name": "gia",
+  "version": "1.0.0",
+  "description": "gia project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Smollny/GIA.git"
+  },
+  "keywords": [
+    "gia"
+  ],
+  "author": "Smollny",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Smollny/GIA/issues"
+  },
+  "homepage": "https://github.com/Smollny/GIA#readme"
+}
