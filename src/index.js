@@ -1,10 +1,8 @@
 var $ = require('jquery');
-
-var str1 = require('./constants');
+require('./less');
 
 var App = function() {
-    $('body').html(str1);
-    // console.log(str1);
+    $('body').html('<div class="b-test"><h3 class="b-test_heading">Heading <div> </div></h3></div>');
 };
 
 var app = new App();
